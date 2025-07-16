@@ -50,9 +50,6 @@ ConcurAcctStringGenerator/
 │   ├── utils.py          # Helper and UI functions
 │   ├── errors.py         # Custom error classes
 │   ├── README.txt        # In-app help file
-├── dist/                 # Compiled .exe output
-├── ConcurAcctStringGenerator.spec
-└── README.md
 ```
 
 ---
